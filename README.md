@@ -17,7 +17,7 @@
 2. Decision tree (DT) 
 3. Random Forest (RF) 
 4. Naive Bayes (NB)
-5.Logistic regression (LR)
+5. Logistic regression (LR)
  ### Stacking model
 
 A stacking model, also known as stacked generalization or simply "stacking," is an ensemble machine learning technique that combines multiple models (often referred to as "base models" or "level-0 models") to improve the overall predictive performance. The key idea is to leverage the strengths of different models and reduce their weaknesses by stacking them together.
